@@ -41,7 +41,7 @@ Navigators and Adventurers may continue to meet during the summer to work on bad
 </ul>
 
 <span id="1"><strong>1.</strong> </span>Paid on the <a href="https://www.traillifeconnect.com/" target="_blank" class="faq">Trail Life Connect - Member Portal</a>.<br />
-<span id="2"><strong>2.</strong> </span>Please go to the <a href="../payments" class="faq">Payments page</a> and select "Pay Registration". The handbooks (Woodland Trail
+<span id="2"><strong>2.</strong> </span>Please go to the <a href="../payments" class="faq">Payments page</a> and select "Pay Troop Dues". The handbooks (Woodland Trail
 and Navigators/Adventurers) are only purchased once per program (2 total handbooks for the entire Trail Life program). The patch is a single time purchase to attach to the Trailman's uniform.<br />
 <span id="3"><strong>3.</strong> </span>Purchased on the <a href="https://shop.traillifeusa.com/" target="_blank" class="faq">Trail Life Shop</a>.<br />
 </details>
@@ -54,8 +54,8 @@ All boys, ages 5 through 17, are welcome regardless of religion, race, national 
 
 <br />
 <details>
-<summary><strong><u>What are the ages for the troops?</u></strong></summary>
-<strong>Foxes:</strong> Kindergarten and at least 5 years old by October 31st
+<summary><strong><u>What are the Levels within Trail Life?</u></strong></summary>
+<strong>Foxes:</strong> K-5 and 1<sup>st</sup> Graders
 <br /><br />
 <strong>Hawks:</strong> 2<sup>nd</sup> and 3<sup>rd</sup> Graders
 <br /><br />
@@ -74,9 +74,11 @@ able to be an Adventurer, even if he has not yet graduated high school.
 <br />
 <details>
 <summary><strong><u>Are non-Christians allowed to join TLUSA?</u></strong></summary>
-Our Member Policy allows for boys of any faith (or no faith at all) to participate in the program of Trail Life USA.
+The Member Policy allows for boys of any faith (or no faith at all) to participate in the program of Trail Life USA.
 <br /><br />
-Local Charter Organizations satisfy the specific ministry goals of their church or organization. In some cases, that may be as an outreach ministry to boys in the community. In other cases, that may be as an in-reach ministry specifically to minister to the families or members of the local church or organization. Therefore, individual Charter Organizations may have more specific membership requirements that limit Troop membership to boys of a certain faith or membership in a certain organization.
+The Local Charter Organization (East Pickens Baptist Church, in our case) defines the specific ministry goals of their church or organization. In some cases, that may be as an outreach ministry to boys in the community. In other cases, that may be as an in-reach ministry specifically to minister to the families or members of the local church or organization. Therefore, individual Charter Organizations may have more specific membership requirements that limit Troop membership to boys of a certain faith or membership in a certain organization.
+<br /><br />
+The policy of East Pickens Baptist Church is that any boy who would like to join our troop is welcome, regardless of his religious beliefs. However, any adult who desires to become a Registered Adult or part of our leadership team must be willing to sign the <a href="https://www.traillifeusa.com/statement-of-faith" target="_blank" class="faq">Statement of Faith and Values</a> found on Trail Life USA's website.
 </details>
 
 <br />
